@@ -1,0 +1,56 @@
+<?php session_start();?>
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://use.fontawesome.com/1ddede1a2f.js"></script>
+    </head>
+    <body>
+       <header class="header">
+           <div>
+               logo
+           </div>
+           <div>
+               logout
+           </div>
+       </header>
+       <main>
+        <div class="flex mb-4">
+            <div class="w-1/4   sidemenu">
+                <p class="p-3 border"><a class="text-white"href="homepage.php?page=course"> <i class="fa fa-book" aria-hidden="true"></i> Course</a></p>
+                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i> Category</a></p>
+                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Degree</a></p>
+                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"> <i class="fa fa-university" aria-hidden="true"></i> University</a></p>
+                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"><i class="fa fa-envelope-o" aria-hidden="true"></i> Contacts</a></p>
+                <p class="p-3 border "><a class="text-white" href="homepage.php?page=frontpage"><i class="fa fa-cogs" aria-hidden="true"></i> Pages</a></p>
+                <p class="p-3 border "><a class="text-white" href="homepage.php?page=frontpage"><i class="fa fa-cogs" aria-hidden="true"></i> Front Page</a></p>
+               
+                <p class="p-3 border "><a class="text-red-400" href="homepage.php?page=logout"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a></p>
+            </div>
+            <div class="w-3/4  mainscreen pl-2 pr-2">
+            <?php 
+            if(isset($_GET['page'])){
+                $page = $_GET['page'];
+                include($page.'.php');
+            }else{
+               include('publish.php'); 
+            }
+            ?>
+            </div>
+            
+        </div>
+       </main>
+        
+        <script src="" async defer></script>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.2em;
+    background-color: #163A5F;
+}
+.sidemenu{
+    background-color: #163A5F;
+    height:        35.7rem;
+    padding: 10px;
+}
