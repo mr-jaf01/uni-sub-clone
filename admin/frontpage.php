@@ -1,7 +1,9 @@
-<div>Front Page Settings</div>
+<div class="p-3 bg-slate-200">
+    <h4 class="">FRONT PAGE PANEL</h4>
+</div>
 <hr class="my-1">
 <form action="" method="POST">
-<div>
+<div class="p-2">
     <h4>Header</h4>
     <div class="">
             <div class="flex mb-4">

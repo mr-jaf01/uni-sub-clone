@@ -12,10 +12,10 @@
                 }
                 if($email == $dbemail){
                     if($password == $dbpassword){
-                        ?>
+                       header('Refresh:3, url=dashboard.php');
+                       ?>
                         <p class="p-4 rounded bg-green-400">Login Successfully Redirecting...</p>
                         <?php 
-                       header('Refresh:3, url=homepage.php');
                        $_SESSION['email'] = $dbemail;
                     }else{
                 ?>

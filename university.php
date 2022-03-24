@@ -20,18 +20,17 @@ foreach (pagesetting() as $key => $value) {
 <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-<title><?php echo $sitename ?> - The ultimate platform for your bright Academic future!</title>
-<meta name="description" content="The ultimate platform for your bright Academic future!" />
-<link rel="canonical" href="https://uni-sub.com/" />
-<link rel="next" href="https://uni-sub.com/page/2/" />
+<title>UNIVERSITIES - <?php echo $sitename ?></title>
+<link rel="canonical" href="https://uni-sub.com/universities/" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Uni-Sub.com" />
-<meta property="og:description" content="The ultimate platform for your bright Academic future!" />
-<meta property="og:url" content="https://uni-sub.com/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="UNIVERSITIES - Uni-Sub.com" />
+<meta property="og:description" content="CANADA UNIVERSITIES USA UNIVERSITIES AUSTRAILIA UNIVERSITIES MAXICO UNIVERSITIES FRANCE UNIVERSITIES ITALY UNIVERSITIES" />
+<meta property="og:url" content="https://uni-sub.com/universities/" />
 <meta property="og:site_name" content="Uni-Sub.com" />
+<meta property="article:modified_time" content="2021-07-21T16:41:39+00:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://uni-sub.com/#website","url":"https://uni-sub.com/","name":"Uni-Sub.com","description":"The ultimate platform for your bright Academic future!","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://uni-sub.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://uni-sub.com/#webpage","url":"https://uni-sub.com/","name":"Uni-Sub.com - The ultimate platform for your bright Academic future!","isPartOf":{"@id":"https://uni-sub.com/#website"},"description":"The ultimate platform for your bright Academic future!","breadcrumb":{"@id":"https://uni-sub.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://uni-sub.com/"]}]},{"@type":"BreadcrumbList","@id":"https://uni-sub.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://uni-sub.com/#website","url":"https://uni-sub.com/","name":"Uni-Sub.com","description":"The ultimate platform for your bright Academic future!","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://uni-sub.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://uni-sub.com/universities/#webpage","url":"https://uni-sub.com/universities/","name":"UNIVERSITIES - Uni-Sub.com","isPartOf":{"@id":"https://uni-sub.com/#website"},"datePublished":"2021-07-21T16:36:25+00:00","dateModified":"2021-07-21T16:41:39+00:00","breadcrumb":{"@id":"https://uni-sub.com/universities/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://uni-sub.com/universities/"]}]},{"@type":"BreadcrumbList","@id":"https://uni-sub.com/universities/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://uni-sub.com/"},{"@type":"ListItem","position":2,"name":"UNIVERSITIES"}]}]}</script>
 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
@@ -71,14 +70,24 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='signify-education-block-style-css' href='https://uni-sub.com/wp-content/themes/signify-education/assets/css/child-blocks.css?ver=20220213-194756' type='text/css' media='all' />
 <link rel='stylesheet' id='signify-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans%7CPlayfair+Display&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='font-awesome-css' href='https://uni-sub.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://uni-sub.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://uni-sub.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://uni-sub.com/wp-content/uploads/elementor/css/post-7.css?ver=1647506512' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://uni-sub.com/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://uni-sub.com/wp-content/uploads/elementor/css/global.css?ver=1647506720' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3252-css' href='https://uni-sub.com/wp-content/uploads/elementor/css/post-3252.css?ver=1647710243' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.2' type='text/css' media='all' />
 <script type='text/javascript' src='https://uni-sub.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://uni-sub.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <!--[if lt IE 9]>
 <script type='text/javascript' src='https://uni-sub.com/wp-content/themes/signify/js/html5.min.js?ver=3.7.3' id='signify-html5-js'></script>
 <![endif]-->
-<link rel="https://api.w.org/" href="https://uni-sub.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uni-sub.com/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://uni-sub.com/wp-json/" /><link rel="alternate" type="application/json" href="https://uni-sub.com/wp-json/wp/v2/pages/3252" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uni-sub.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://uni-sub.com/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.9.2" />
+<link rel='shortlink' href='https://uni-sub.com/?p=3252' />
+<link rel="alternate" type="application/json+oembed" href="https://uni-sub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Funi-sub.com%2Funiversities%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://uni-sub.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Funi-sub.com%2Funiversities%2F&#038;format=xml" />
 <style type="text/css" rel="header-image">
 	            .custom-header .wrapper:before {
 	                background-image: url( https://uni-sub.com/wp-content/themes/signify-education/assets/images/header-image-education.jpg);
@@ -92,7 +101,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="apple-touch-icon" href="https://uni-sub.com/wp-content/uploads/2021/04/cropped-uni-sub.com-01-1.png" />
 <meta name="msapplication-TileImage" content="https://uni-sub.com/wp-content/uploads/2021/04/cropped-uni-sub.com-01-1.png" />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script></head>
-<body class="home blog wp-embed-responsive group-blog hfeed fluid-layout navigation-classic two-columns-layout content-left excerpt header-media-fluid has-header-media absolute-header header-media-text-disabled has-header-image color-scheme-default menu-type-classic menu-style-full-width header-style-two elementor-default elementor-kit-7">
+<body class="page-template-default page page-id-3252 wp-embed-responsive group-blog fluid-layout navigation-classic two-columns-layout content-left excerpt header-media-fluid has-header-media absolute-header has-header-image color-scheme-default menu-type-classic menu-style-full-width header-style-two elementor-default elementor-kit-7 elementor-page elementor-page-3252">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
 <div id="page" class="site">
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -101,7 +110,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="wrapper">
 <div class="site-branding">
 <div class="site-identity">
-<h1 class="site-title"><a href="index.php" rel="home"><?php echo $sitename ?></a></h1>
+<p class="site-title"><a href="index.php" rel="home"><?php echo $sitename ?></a></p>
 <p class="site-description">The ultimate platform for your bright Academic future!</p>
 </div>
 </div>
@@ -128,6 +137,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	?>
     </ul>
 
+
 </div>
 </nav>
 </div>
@@ -140,6 +150,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="wrapper">
 <div class="custom-header-media">
 <div id="wp-custom-header" class="wp-custom-header"><img src="https://uni-sub.com/wp-content/themes/signify-education/assets/images/header-image-education.jpg" /></div>
+<div class="custom-header-content sections header-media-section content-align-left text-align-left">
+<div class="custom-header-content-wrapper">
+<div class="section-title-wrapper"><h2 class="section-title">UNIVERSITIES</h2></div>
+</div>
+</div>
 </div>
 </div>
 <div class="custom-header-overlay"></div>
@@ -148,40 +163,74 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="wrapper">
 <div id="primary" class="content-area">
 <main id="main" class="site-main">
+<div class="singular-content-wrap">
+<div class='code-block code-block-2' style='margin: 8px auto 8px 0; text-align: left; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script></div>
+<div class='code-block code-block-12' style='margin: 8px 0; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script>
+</div>
+<div class='code-block code-block-15' style='margin: 8px 0 8px auto; text-align: right; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script>
+</div>
+<article id="post-3252" class="post-3252 page type-page status-publish hentry">
+
+<div class="entry-content">
+<div class='code-block code-block-13' style='margin: 8px auto 8px 0; text-align: left; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script>
+</div>
+<div data-elementor-type="wp-page" data-elementor-id="3252" class="elementor elementor-3252" data-elementor-settings="[]">
+<div class="elementor-section-wrap">
+<section class="elementor-section elementor-top-section elementor-element elementor-element-6589209 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6589209" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c107fa6" data-id="c107fa6" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-b14641d elementor-widget elementor-widget-heading" data-id="b14641d" data-element_type="widget" data-widget_type="heading.default">
 
 <?php 
-if(isset($_GET['page'])){
-    $page = $_GET['page'];
-    include($page.'.php');
 
-}else{
-    include('main.php');
-}
+		$university = getUniversity();
+		foreach ($university as $unikey => $univalue) {
+			# code...
+			?>
+			
+				<div class="elementor-widget-container">
+				<h2 class="elementor-heading-title elementor-size-default"><?php echo strtoupper($univalue['university_name']) ?></h2> 
+				</div>
 
-?>
+			
+			<?php 
+			
+		}
+	
+	
+	?>
 
 
 
 
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
 
-
-
+</div>
+</article>
+</div> 
 </main>
 </div>
 <aside id="secondary" class="widget-area sidebar">
 <section id="search-2" class="widget widget_search"> <div class="widget-wrap"><h2 class="widget-title">SEARCH</h2>
 <form role="search" method="get" class="search-form" action="https://uni-sub.com/">
-<label for="search-form-62364b546e0c2">
+<label for="search-form-623a7cb188619">
 <span class="screen-reader-text">Search for:</span>
-<input type="search" id="search-form-62364b546e0c2" class="search-field" placeholder="Search" value="" name="s" />
+<input type="search" id="search-form-623a7cb188619" class="search-field" placeholder="Search" value="" name="s" />
 </label>
 <button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
 </form>
-</div></section><section id="categories-2" class="widget widget_categories"> 
-
-
-
-<div class="widget-wrap"><h2 class="widget-title">Categories</h2>
+</div></section><section id="categories-2" class="widget widget_categories"> <div class="widget-wrap"><h2 class="widget-title">Categories</h2>
 <ul>
 <?php 
 $categories = getcategory();
@@ -196,40 +245,17 @@ foreach ($categories as $catkey => $catvalue) {
 }
 ?>
 </ul>
-
-
-
 </div></section></aside>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <footer id="colophon" class="site-footer">
 <aside class="widget-area footer-widget-area one" role="complementary">
 <div class="wrapper">
 <div class="widget-column footer-widget-1">
 <section id="pages-2" class="widget widget_pages"> <div class="widget-wrap"><h2 class="widget-title">Pages</h2>
-<ul>
+<ul id="menu-primary-items" class="menu nav-menu">
 <li class="page_item page-item-3130"><a href="index.php">HOME</a></li>
-<?php 
+	<?php 
 	$pages = getpages();
 	foreach ($pages as $pkey => $page) {
 		# code...
@@ -240,7 +266,8 @@ foreach ($categories as $catkey => $catvalue) {
 	}
 	
 	?>
-</ul>
+    </ul>
+
 </div></section> </div>
 </div>
 </aside>
@@ -266,5 +293,19 @@ var signifyOptions = {"screenReaderText":{"expand":"expand child menu","collapse
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://uni-sub.com/wp-content/themes/signify/js/functions.min.js?ver=201800703' id='signify-script-js'></script>
+<script type='text/javascript' src='https://uni-sub.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.3.1' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://uni-sub.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.6' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://uni-sub.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.6' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/uni-sub.com\/wp-admin\/admin-ajax.php","nonce":"26bd49339f","urls":{"assets":"https:\/\/uni-sub.com\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/uni-sub.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://uni-sub.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.3.1' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://uni-sub.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://uni-sub.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.6","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"a11y_improvements":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true,"video-playlist":true},"urls":{"assets":"https:\/\/uni-sub.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":3252,"title":"UNIVERSITIES%20-%20Uni-Sub.com","excerpt":"","featuredImage":false}};
+</script>
+<script type='text/javascript' src='https://uni-sub.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.6' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://uni-sub.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.3.1' id='pro-elements-handlers-js'></script>
 </body>
 </html>

@@ -20,23 +20,21 @@ foreach (pagesetting() as $key => $value) {
 <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-<title><?php echo $sitename ?> - The ultimate platform for your bright Academic future!</title>
-<meta name="description" content="The ultimate platform for your bright Academic future!" />
-<link rel="canonical" href="https://uni-sub.com/" />
-<link rel="next" href="https://uni-sub.com/page/2/" />
+<title>Actuarial Practice Archives - <?php echo $sitename ?></title>
+<link rel="canonical" href="https://uni-sub.com/category/actuarial-practice/" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Uni-Sub.com" />
-<meta property="og:description" content="The ultimate platform for your bright Academic future!" />
-<meta property="og:url" content="https://uni-sub.com/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Actuarial Practice Archives - Uni-Sub.com" />
+<meta property="og:url" content="https://uni-sub.com/category/actuarial-practice/" />
 <meta property="og:site_name" content="Uni-Sub.com" />
 <meta name="twitter:card" content="summary_large_image" />
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://uni-sub.com/#website","url":"https://uni-sub.com/","name":"Uni-Sub.com","description":"The ultimate platform for your bright Academic future!","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://uni-sub.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://uni-sub.com/#webpage","url":"https://uni-sub.com/","name":"Uni-Sub.com - The ultimate platform for your bright Academic future!","isPartOf":{"@id":"https://uni-sub.com/#website"},"description":"The ultimate platform for your bright Academic future!","breadcrumb":{"@id":"https://uni-sub.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://uni-sub.com/"]}]},{"@type":"BreadcrumbList","@id":"https://uni-sub.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://uni-sub.com/#website","url":"https://uni-sub.com/","name":"Uni-Sub.com","description":"The ultimate platform for your bright Academic future!","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://uni-sub.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://uni-sub.com/category/actuarial-practice/#webpage","url":"https://uni-sub.com/category/actuarial-practice/","name":"Actuarial Practice Archives - Uni-Sub.com","isPartOf":{"@id":"https://uni-sub.com/#website"},"breadcrumb":{"@id":"https://uni-sub.com/category/actuarial-practice/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://uni-sub.com/category/actuarial-practice/"]}]},{"@type":"BreadcrumbList","@id":"https://uni-sub.com/category/actuarial-practice/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://uni-sub.com/"},{"@type":"ListItem","position":2,"name":"Actuarial Practice"}]}]}</script>
 
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link rel="alternate" type="application/rss+xml" title="Uni-Sub.com &raquo; Feed" href="https://uni-sub.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Uni-Sub.com &raquo; Comments Feed" href="https://uni-sub.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Uni-Sub.com &raquo; Actuarial Practice Category Feed" href="https://uni-sub.com/category/actuarial-practice/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/uni-sub.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.2"}};
 /*! This file is auto-generated */
@@ -76,7 +74,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <!--[if lt IE 9]>
 <script type='text/javascript' src='https://uni-sub.com/wp-content/themes/signify/js/html5.min.js?ver=3.7.3' id='signify-html5-js'></script>
 <![endif]-->
-<link rel="https://api.w.org/" href="https://uni-sub.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uni-sub.com/xmlrpc.php?rsd" />
+<link rel="https://api.w.org/" href="https://uni-sub.com/wp-json/" /><link rel="alternate" type="application/json" href="https://uni-sub.com/wp-json/wp/v2/categories/149" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://uni-sub.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://uni-sub.com/wp-includes/wlwmanifest.xml" />
 <meta name="generator" content="WordPress 5.9.2" />
 <style type="text/css" rel="header-image">
@@ -92,7 +90,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="apple-touch-icon" href="https://uni-sub.com/wp-content/uploads/2021/04/cropped-uni-sub.com-01-1.png" />
 <meta name="msapplication-TileImage" content="https://uni-sub.com/wp-content/uploads/2021/04/cropped-uni-sub.com-01-1.png" />
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script></head>
-<body class="home blog wp-embed-responsive group-blog hfeed fluid-layout navigation-classic two-columns-layout content-left excerpt header-media-fluid has-header-media absolute-header header-media-text-disabled has-header-image color-scheme-default menu-type-classic menu-style-full-width header-style-two elementor-default elementor-kit-7">
+<body class="archive category category-actuarial-practice category-149 wp-embed-responsive group-blog hfeed fluid-layout navigation-classic two-columns-layout content-left excerpt header-media-fluid has-header-media absolute-header has-header-image color-scheme-default menu-type-classic menu-style-full-width header-style-two elementor-default elementor-kit-7">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
 <div id="page" class="site">
 <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
@@ -101,7 +99,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="wrapper">
 <div class="site-branding">
 <div class="site-identity">
-<h1 class="site-title"><a href="index.php" rel="home"><?php echo $sitename ?></a></h1>
+<p class="site-title"><a href="index.php" rel="home"><?php echo $sitename ?></a></p>
 <p class="site-description">The ultimate platform for your bright Academic future!</p>
 </div>
 </div>
@@ -113,8 +111,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="menu-inside-wrapper">
 <nav id="site-navigation" class="main-navigation default-page-menu" role="navigation" aria-label="Primary Menu">
 <div class="primary-menu-container">
-<ul id="menu-primary-items" class="menu nav-menu">
-<li class="page_item page-item-3130"><a href="index.php">HOME</a></li>
+
+	<ul id="menu-primary-items" class="menu nav-menu">
+     <li class="page_item page-item-3130"><a href="index.php">HOME</a></li>
 	<?php 
 	$pages = getpages();
 	foreach ($pages as $pkey => $page) {
@@ -128,6 +127,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 	?>
     </ul>
 
+
 </div>
 </nav>
 </div>
@@ -140,6 +140,11 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div class="wrapper">
 <div class="custom-header-media">
 <div id="wp-custom-header" class="wp-custom-header"><img src="https://uni-sub.com/wp-content/themes/signify-education/assets/images/header-image-education.jpg" /></div>
+<div class="custom-header-content sections header-media-section content-align-left text-align-left">
+<div class="custom-header-content-wrapper">
+<div class="section-title-wrapper"><h6 class="section-title">Category: <span><?php echo $_GET['category'] ?></span></h6></div>
+</div>
+</div>
 </div>
 </div>
 <div class="custom-header-overlay"></div>
@@ -147,15 +152,55 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <div id="content" class="site-content">
 <div class="wrapper">
 <div id="primary" class="content-area">
+
+
 <main id="main" class="site-main">
 
-<?php 
-if(isset($_GET['page'])){
-    $page = $_GET['page'];
-    include($page.'.php');
 
-}else{
-    include('main.php');
+<div class="archive-posts-wrapper">
+<div class="section-content-wrapper layout-one">
+<div id="infinite-post-wrap" class="archive-post-wrap">
+<div class='code-block code-block-1' style='margin: 8px auto; text-align: center; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script>
+</div>
+<div class='code-block code-block-2' style='margin: 8px auto 8px 0; text-align: left; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script></div>
+<div class='code-block code-block-12' style='margin: 8px 0; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script>
+</div>
+<div class='code-block code-block-15' style='margin: 8px 0 8px auto; text-align: right; display: block; clear: both;'>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4829095628122464" crossorigin="anonymous"></script>
+</div>
+
+<?php 
+$courses = getcoursebycategory($_GET['category']);
+foreach ($courses as $key => $course) {
+    # code...
+    ?>
+    
+
+<article id="post-4137" class="post-4137 post type-post status-publish format-standard hentry category-statistics category-university-of-guelph">
+            <div class="post-wrapper hentry-inner">
+            <div class="entry-container">
+            <header class="entry-header">
+            <div class="entry-meta">
+            <span class="cat-links"><span class="screen-reader-text">Cat Links </span><a href="#" rel="category tag"><?php echo $course['course_title'] ?></a>, <a href="#" rel="category tag"><?php echo $course['course_university'] ?></a></span> </div>
+            <h2 class="entry-title"><a href="https://uni-sub.com/2022/02/14/mathematics-statistics-phd/" rel="bookmark"><?php echo $course['course_title'] ?></a></h2>
+            <div class="entry-meta">
+            <span class="posted-on"><span class="screen-reader-text"> Posted on </span><a href="#" rel="bookmark"><time class="entry-date published updated"><?php echo $course['created_date'] ?></time></a></span> <span class="byline"><span class="author vcard"><a class="url fn n" href="#"><?php echo $course['postedby'] ?></a></span></span> </div>
+            </header>
+            <div class="entry-summary">
+            <p>Mathematics &amp; Statistics (PhD) University of Guelph SITE DEGREE DURATION Campus based PhD 3-4 years OVERVIEW Mathematics &amp; Statistics (PhD)</p>
+            <p><a href="details.php?course=<?php echo $course['course_id'] ?>" class="more-link">Continue reading<span class="screen-reader-text">Mathematics &#038; Statistics (PhD)</span></a></p>
+            </div>
+            </div>
+            </div>
+</article>
+    
+    
+    
+    
+    <?php
 }
 
 ?>
@@ -163,25 +208,26 @@ if(isset($_GET['page'])){
 
 
 
-
-
-
+</div>
+</div>
+</div>
 </main>
+
+
+
+
+
 </div>
 <aside id="secondary" class="widget-area sidebar">
 <section id="search-2" class="widget widget_search"> <div class="widget-wrap"><h2 class="widget-title">SEARCH</h2>
 <form role="search" method="get" class="search-form" action="https://uni-sub.com/">
-<label for="search-form-62364b546e0c2">
+<label for="search-form-623bc22473b11">
 <span class="screen-reader-text">Search for:</span>
-<input type="search" id="search-form-62364b546e0c2" class="search-field" placeholder="Search" value="" name="s" />
+<input type="search" id="search-form-623bc22473b11" class="search-field" placeholder="Search" value="" name="s" />
 </label>
 <button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
 </form>
-</div></section><section id="categories-2" class="widget widget_categories"> 
-
-
-
-<div class="widget-wrap"><h2 class="widget-title">Categories</h2>
+</div></section><section id="categories-2" class="widget widget_categories"> <div class="widget-wrap"><h2 class="widget-title">Categories</h2>
 <ul>
 <?php 
 $categories = getcategory();
@@ -196,32 +242,9 @@ foreach ($categories as $catkey => $catvalue) {
 }
 ?>
 </ul>
-
-
-
 </div></section></aside>
 </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <footer id="colophon" class="site-footer">
 <aside class="widget-area footer-widget-area one" role="complementary">
 <div class="wrapper">

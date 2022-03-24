@@ -1,4 +1,9 @@
-<?php session_start();?>
+<?php 
+session_start();
+if(!isset($_SESSION['email'])){
+echo "Access Denied!!!";
+}else{
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -27,17 +32,14 @@
        <main>
         <div class="flex mb-4">
             <div class="w-1/4   sidemenu">
-                <p class="p-3 border"><a class="text-white"href="homepage.php?page=course"> <i class="fa fa-book" aria-hidden="true"></i> Course</a></p>
-                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i> Category</a></p>
-                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Degree</a></p>
-                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"> <i class="fa fa-university" aria-hidden="true"></i> University</a></p>
-                <p class="p-3 border"><a class="text-white" href="homepage.php?page=course"><i class="fa fa-envelope-o" aria-hidden="true"></i> Contacts</a></p>
-                <p class="p-3 border "><a class="text-white" href="homepage.php?page=frontpage"><i class="fa fa-cogs" aria-hidden="true"></i> Pages</a></p>
-                <p class="p-3 border "><a class="text-white" href="homepage.php?page=frontpage"><i class="fa fa-cogs" aria-hidden="true"></i> Front Page</a></p>
+                <p class="p-3 border"><a class="text-white"href="dashboard.php?page=course"> <i class="fa fa-book" aria-hidden="true"></i> Course</a></p>
+                <p class="p-3 border"><a class="text-white" href="dashboard.php?page=category"><i class="fa fa-chevron-circle-down" aria-hidden="true"></i> Category</a></p>
+                <p class="p-3 border"><a class="text-white" href="dashboard.php?page=university"> <i class="fa fa-university" aria-hidden="true"></i> University</a></p>
+                <p class="p-3 border "><a class="text-white" href="dashboard.php?page=frontpage"><i class="fa fa-cogs" aria-hidden="true"></i> Front Page</a></p>
                
-                <p class="p-3 border "><a class="text-red-400" href="homepage.php?page=logout"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a></p>
+                <p class="p-3 border "><a class="text-red-400" href="dashboard.php?page=logout"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a></p>
             </div>
-            <div class="w-3/4  mainscreen pl-2 pr-2">
+            <div class="w-3/4  mainscreen ">
             <?php 
             if(isset($_GET['page'])){
                 $page = $_GET['page'];
@@ -54,3 +56,8 @@
         <script src="" async defer></script>
     </body>
 </html>
+    
+    
+<?php
+}
+?>
