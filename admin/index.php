@@ -1,4 +1,7 @@
-<?php session_start() ?>
+<?php 
+ob_start();
+session_start();
+?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -52,3 +55,4 @@
         <script src="" async defer></script>
     </body>
 </html>
+<?php ob_end_flush();  ?>

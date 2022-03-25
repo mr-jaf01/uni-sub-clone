@@ -50,7 +50,7 @@ foreach ($universities as $key => $uni) {
 
 </td>
 <td class="px-6 py-4 text-right">
-<p><a href="#" class="font-small rounded font-bold p-2 text-white btn bg-blue-600">Edit</a>| <a href="dashboard.php?page=deleteuni&uniID=<?php echo $uni['university_id'] ?>" class="font-small p-2 text-white btn bg-red-600 rounded">Delate</a></p>
+<p><a href="#" class="font-xs rounded font-bold p-2 text-white btn bg-blue-600">Edit</a> <a href="dashboard.php?page=deleteuni&uniID=<?php echo $uni['university_id'] ?>" class="font-small p-2 text-white btn bg-red-600 rounded">Delate</a></p>
 </td>
 </tr>
     

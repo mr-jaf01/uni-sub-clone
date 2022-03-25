@@ -23,3 +23,15 @@ function getcategory(){
     return $categories;
 
 };
+
+function getcourse(){
+    include 'db/connect_db.php';
+    $query = "SELECT * FROM courses";
+    $run_query = mysqli_query($conn, $query);
+    $courses = array();
+    while($row = mysqli_fetch_assoc($run_query)){
+        $courses[] = $row;  
+    }
+    return $courses;
+
+};

@@ -1,7 +1,7 @@
 <?php 
 session_start();
 if(!isset($_SESSION['email'])){
-echo "Access Denied!!!";
+header('location:index.php');
 }else{
 ?>
 <!DOCTYPE html>
@@ -23,10 +23,10 @@ echo "Access Denied!!!";
     <body>
        <header class="header">
            <div>
-               logo
+              
            </div>
            <div>
-               logout
+               
            </div>
        </header>
        <main>
@@ -37,7 +37,7 @@ echo "Access Denied!!!";
                 <p class="p-3 border"><a class="text-white" href="dashboard.php?page=university"> <i class="fa fa-university" aria-hidden="true"></i> University</a></p>
                 <p class="p-3 border "><a class="text-white" href="dashboard.php?page=frontpage"><i class="fa fa-cogs" aria-hidden="true"></i> Front Page</a></p>
                
-                <p class="p-3 border "><a class="text-red-400" href="dashboard.php?page=logout"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a></p>
+                <p class="p-3 border "><a class="text-red-400" href="logout.php"><i class="fa fa-sign-out" aria-hidden="true"></i> Logout</a></p>
             </div>
             <div class="w-3/4  mainscreen ">
             <?php 
@@ -45,7 +45,7 @@ echo "Access Denied!!!";
                 $page = $_GET['page'];
                 include($page.'.php');
             }else{
-               include('publish.php'); 
+               include('course.php'); 
             }
             ?>
             </div>
